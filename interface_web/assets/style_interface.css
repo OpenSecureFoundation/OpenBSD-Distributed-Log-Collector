@@ -1,0 +1,22 @@
+/* Feuille de style professionnelle pour l'interface de gestion */
+body { 
+    background-color: #f8f9fa; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    padding-bottom: 70px; 
+}
+
+h1 { 
+    background: #212529; 
+    color: white; 
+    padding: 25px; 
+    text-align: center; 
+    border-bottom: 4px solid #dc3545; 
+}
+
+.table-container { 
+    background: white; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1); 
+    padding: 20px; 
+    margin-top: 20px;
+}
